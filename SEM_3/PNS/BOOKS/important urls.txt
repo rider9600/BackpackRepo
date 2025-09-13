@@ -1,0 +1,8 @@
+Some urls
+1. https://www.probabilitycourse.com/
+2. https://www.statlect.com/
+3. https://www.randomservices.org/
+https://arxiv.org/pdf/2502.05244
+https://www.cs.cmu.edu/~harchol/PerformanceModeling/book.html
+https://www.cambridge.org/core/series/mastering-mathematical-finance/C3945FD62B6D40A4D93D312047CC6CE4
+https://en.wikipedia.org/wiki/Operations_research
